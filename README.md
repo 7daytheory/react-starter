@@ -1,10 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
+# Base Setup for React App without bulky unused files
+### 'git clone https://github.com/7daytheory/react-starter'
 
 ### `npm start`
 
