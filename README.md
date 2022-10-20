@@ -1,6 +1,10 @@
 # Base Setup for React App without bulky unused files
 ### 'git clone https://github.com/7daytheory/react-starter'
 
+### `npm install`
+
+Installs dependencies specified in the package json file and creates the node_modules folder
+
 ### `npm start`
 
 Runs the app in the development mode.\

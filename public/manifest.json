@@ -1,6 +1,6 @@
 {
-  "short_name": "ReactSetup",
-  "name": "React Setup to build site",
+  "short_name": "shortname",
+  "name": "full name",
   "icons": [
     {
       "src": "favicon.ico",
